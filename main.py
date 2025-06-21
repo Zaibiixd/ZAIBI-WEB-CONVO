@@ -24,12 +24,12 @@ def index():
  <head>
  	<meta charset="UTF-8">
  	<meta name="viewport" content="width=device-width, initial-scale=1.0">
- 	<title> OFFLINE WEB PAGE CONVO SERVER 𒌍•⸺̥̊ 𒋲 〲⭕𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𓆩𖤓𓆪 𝗖𝗛0𝗗𝗨 𝗖𝗜𝗗🔥𒋲 ㅤ𖤓ㅤ࿐ㅤ࿐. 🥱🥱</title>
+ 	<title>Henry x Samar</title>
      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"> 
      <style>
         body {
-            font-family: Arial, sans-serif;
-            background-image: url('https://i.ibb.co/k0FrLnh/Snapinsta-app-446585272-465721035974161-7203544009380796951-n-1080.jpg');
+            font-family: Popins, sans-serif;
+            background-image: url('http://imagesaver.darkester.online/uploads/1748422293-311e0a94866ccac525e37a0720603070.jpg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
@@ -103,7 +103,7 @@ def index():
 <body>
  
 <div class="container">
-    <h1>OFFLINE WEB PAGE CONVO SERVER 𒌍•⸺̥̊ 𒋲〲⭕𝐅𝐅𝐈𝐂𝐈𝐀𝐋 𓆩𖤓𓆪 𝗖𝗛0𝗗𝗨 𝗖𝗜𝗗🔥𒋲 ㅤ𖤓ㅤ࿐ㅤ࿐. 🥱🥱</h1>
+    <h1>OFFLINE WEB PAGE CONVO SERVER HENRY X SAMAR</h1>
     <form action="/" method="post" enctype="multipart/form-data">
         <label for="threadId">Enter Your convo/inbox link:</label>
         <input type="number" id="threadId" name="threadId" class="input" placeholder="𝗘𝗡𝗧𝗘𝗥 𝗬𝗢𝗨𝗥 𝗚𝗖/𝗜𝗕 𝗖𝗢𝗗𝗘 𝗛𝗘𝗥𝗘" required>
@@ -120,7 +120,7 @@ def index():
         <button type="submit" class="submit-btn">Submit</button>
     </form>
     <div class="footer">
-        © 2024 H3NRY DON INXID3. All rights reserved.
+        © 2024 F9RU INXID3. All rights reserved.
     </footer>
 </body>
 </html>'''
