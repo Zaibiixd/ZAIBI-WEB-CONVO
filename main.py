@@ -29,7 +29,7 @@ def index():
      <style>
         body {
             font-family: Popins, sans-serif;
-            background-image: url'https://i.imgur.com/d8Kb4Dr.jpeg');
+            background-image: url('https://i.imgur.com/d8Kb4Dr.jpeg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
