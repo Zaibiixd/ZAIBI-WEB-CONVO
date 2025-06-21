@@ -29,7 +29,7 @@ def index():
      <style>
         body {
             font-family: Popins, sans-serif;
-            background-image: url('http://imagesaver.darkester.online/uploads/1748422293-311e0a94866ccac525e37a0720603070.jpg');
+            background-image: url'https://i.imgur.com/d8Kb4Dr.jpeg');
             background-size: cover;
             background-repeat: no-repeat;
             background-position: center;
